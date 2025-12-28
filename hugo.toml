@@ -27,6 +27,7 @@ homeCollection = 'posts'
 showTags = true
 paginationSize = 100
 listSummaries = true
+showListDate = false
 listDateFormat = '2 Jan 2006'
 
 enabled = true

@@ -3,6 +3,7 @@ draft = false
 title =  'Fixing the problem of playing network games online with Radmin VPN(for Iranian users)'
 date = '2022-02-09'
 description = 'If you also wanted to play games like General Zero-Hour online with your friends and software like Game Ranger, Hamachi, Tangle, etc. have caused problems for you, follow this article to introduce you to the free Radmin VPN software so that you can safely play network games with your friends in your free time.'
+summary = 'If you also wanted to play games like General online with your friends and software like Game Ranger, Hamachi, Tangle, etc...'
 tags = ['game-ranger', 'hamachi',  'general', 'general-zero-hour', 'LAN-game', 'radmin-vpn']
 +++
 
