@@ -1,6 +1,6 @@
 +++
 draft = false
-title =  'what is zsh? + aliases'
+title =  'What is zsh? + aliases'
 date = '2024-07-03'
 description = 'Programmers work with the command line interface(terminal) to run a series of commands or run a project or thousands of other tasks. Working with the terminal is even more important for GUN/Linux and macOS users, as learning and using this tool correctly and optimally increases productivity and comfort. This article tries to introduce one of the famous shells of the open source world and how to install it and use one of its most famous frameworks, oh-my-zsh. read the full article on'
 summary = 'Programmers work with the command line interface(terminal) to run a series of commands or run a project or thousands of other tasks...'
