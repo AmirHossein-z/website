@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<div class="list-container">
+
+    {{ partial "breadcrumbs.html" . }}
+
+    <h1 data-pagefind-meta="title">
+        #{{ .Title }}
+    </h1>
+
+    {{ with .Params.description }}
+        <p class="tag-description">{{ . }}</p>
+    {{ end }}
+
+    {{ $paginationSize := 1 }}
+    {{ if gt .Site.Params.paginationSize 0 }}
+        {{ $paginationSize = .Site.Params.paginationSize }}
+    {{ end }}
+
+    {{ $paginator := .Paginate .Pages $paginationSize }}
+
+    {{ range $paginator.Pages }}
+        {{ partial "post-entry.html" . }}
+    {{ end }}
+
+    {{ partial "pagination-controls.html" $paginator }}
+
+</div>
+
+{{ end }}
