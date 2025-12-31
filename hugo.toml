@@ -5,12 +5,12 @@ googleAnalytics = "G-XJF3ZBNKE3"
 
 [params]
 # Meta description
-# description = "Amirhossein Zareian a Developer | geek | Linux | agnostic"
 description = "Home page of Amirhossein Zareian personal website."
 
 
 theme = 'auto'
-colorPalette = 'default'
+colorPalette = 'base16-eighties'
+# colorPalette = 'base16-ocean'
 hideHeader = false
 
 homeIntroTitle = ''
