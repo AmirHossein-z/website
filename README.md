@@ -7,9 +7,16 @@ hugo server -D
 ```
 
 ## build the project
+
 ```bash
 hugo
+npx -y pagefind --site public
+cd public;
+liara deploy --platform=static
 ```
+
+## liara ref for deployment
+[link](https://docs.liara.ir/paas/static/related-apps/hugo/)
 
 ## to get updated project
 
