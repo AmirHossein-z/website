@@ -15,3 +15,5 @@ Technical SEO
 **Security:** crytography
 
 **Security protocol:** Avispa, Proverif, NS3
+
+**general stuff:** content creation, basic photo & video editing

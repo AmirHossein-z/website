@@ -18,13 +18,13 @@ has lots of resource that you can search for them to learn more.
 
 - Does life have any meaning? what is the meaning of life?
 
-- What is abstraction?
+- What is abstraction? What is Concrete?
 
 - Is world built on purpose or accident?
 
 - What is your passion? What is the most important thing in your life that you like to do daily with love?
 
-- What is ethics? Do ethics exists?
+- What is ethics? Do ethics exists? How to set it up?
 
 - What is money? how it was created and envolved over time? how does it work?
 
@@ -33,6 +33,8 @@ has lots of resource that you can search for them to learn more.
 - What are your criteria for life satisfaction?
 
 - What is peace? When do you have peace?
+
+- What is intelligence? What makes us different from AI built today and in future?
 
 ## learn
 
